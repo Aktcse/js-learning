@@ -1,4 +1,4 @@
-let score="33"
+/*let score="33"
 
 console.log(typeof(score));
 console.log(typeof score);
@@ -22,3 +22,26 @@ console.log(bool)
 //1=>true; 0=>false
 //""=>false
 //"Akash"=>true
+*/
+
+//****************************** Operation *************************** //
+
+let str1="Akash"
+let str2=" Tripathy"
+console.log(str1+str2);
+
+console.log("1"+2); //12
+console.log(1+"2"); //12
+console.log("1"+2+2); //122
+console.log(1+2+"2"); //32
+console.log(1+"2"+3); //123
+
+console.log(+true); //1
+console.log(+""); //0
+
+
+
+
+
+
+
